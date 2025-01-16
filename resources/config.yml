@@ -1,0 +1,8 @@
+# resources/config.yaml
+base_url: "https://www.2020exch.com"
+valid_credentials:
+  username: "Promod423tex"
+  password: "Promod@36"
+invalid_credentials:
+  username: "invalid_username"
+  password: "invalid_password"
